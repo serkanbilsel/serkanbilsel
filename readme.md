@@ -53,7 +53,7 @@
  # About me
  
 <p>
- <img align="right" width="250" src="https://github.com/user-attachments/assets/e22bb31f-e950-48e3-be7f-9da32695fd8f" alt="Serkan Bilsel" />
+ <img align="right" width="250" src="https://github.com/serkanbilsel/serkanbilsel/blob/main/assets/programmer.gif" alt="Serkan Bilsel" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
