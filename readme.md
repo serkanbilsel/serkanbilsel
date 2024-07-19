@@ -27,7 +27,7 @@
   <samp>
     <a></a>
     <br>
-    「 I am a full stack web application developer from <b>Turkiye</b> 」
+    「 I am a full stack web application and React Native developer from <b>Turkiye</b> 」
     <br>
     <br>
   </samp>
