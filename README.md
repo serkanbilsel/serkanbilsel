@@ -204,6 +204,11 @@ I focus on:
 
 💻 **GitHub:** [github.com/serkanbilsel](https://github.com/serkanbilsel)
 
+💻 [Professional development activity](https://gitlab.com/serkanbilsel)
+
+<img width="1175" height="387" alt="image" src="https://github.com/user-attachments/assets/eedf5210-120b-4713-b7e2-6ab29f16ffc4" />
+
+
 ---
 
 ### ⚡ Building software with AI — not just talking about it.
